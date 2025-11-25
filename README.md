@@ -59,30 +59,6 @@ A job search tool with authentication, saved jobs, and advanced filtering.
 
 ---
 
-### 🔹 💻 **[Tcl Language Server](https://github.com/ShrirakshaKharvii/languageServer)**  
-LSP for Tcl with auto-complete, go-to-definition, diagnostics, and code actions.
-
----
-
-### 🔹 🏏 **[Cricket Database Management](https://github.com/ShrirakshaKharvii/CricketDatabase)**  
-A cricket statistics management system using SQL & MongoDB for structured data analysis.
-
----
-
-### 🔹 🛒 **[Flipkart Webpage Automation](https://github.com/Shrirakshakharvii/FlipkartWebpage_Selenium)**  
-Automated UI testing of Flipkart using Selenium for search, filters, and navigation flows.
-
----
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shrirakshakharvi&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrirakshakharvii&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🔗 **Connect With Me**
 
 <p align="center">
