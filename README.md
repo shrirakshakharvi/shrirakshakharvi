@@ -69,6 +69,6 @@ A job search tool with authentication, saved jobs, and advanced filtering.
 
 ---
 
-I enjoy learning, experimenting, and creating projects that help me grow as a developer.
+I enjoy learning, experimenting, and creating projects.
 
 ✨ **Let’s build something amazing together!** ✨
